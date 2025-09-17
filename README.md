@@ -63,8 +63,19 @@
 <img width="672" height="690" alt="image" src="https://github.com/user-attachments/assets/7d4dd47d-0082-441a-a32e-368a6f98eedb" />
 
 
+
 **Подсчет узлов:**
 Рекурсивная функция обхода всех узлов дерева.
+
+    int Count(Node* v)
+    {static int n=0;
+    
+    if ( !v ) return 0; // лист – окончание рекурсии
+    Count(v->left); // обход левого поддерева
+    n++;
+    Count(v->right); // обход правого поддерева
+    return n;
+    };
 
 **Обходы бинарного дерева:**
 
