@@ -51,7 +51,7 @@
 
 Пусть есть множество элементов {3,7,2,9,11,4,33,88,34,6}. Рассмотрим, как они добавляются сортирующее дерево.
 
-<img width="690" height="509" alt="image" src="https://github.com/user-attachments/assets/888a1ff5-1f3f-4f06-97ab-ab0201334798" />  <img width="426" height="663" alt="image" src="https://github.com/user-attachments/assets/ec64e03d-b544-4ec5-93f7-973ae0f7529a" />
+<img width="690" height="509" alt="image" src="https://github.com/user-attachments/assets/888a1ff5-1f3f-4f06-97ab-ab0201334798" />  . <img width="426" height="663" alt="image" src="https://github.com/user-attachments/assets/ec64e03d-b544-4ec5-93f7-973ae0f7529a" />
 
 
 
